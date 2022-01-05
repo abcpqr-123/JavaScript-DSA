@@ -7,4 +7,7 @@ Only approach and logic is there.
 
 
 Need to wite more notes in the Sorting Graphs-adjececy Matrix file 
-Matirx dig and other things 
+Matirx dig and other things  - 210
+
+Need to wite more notes in the Sorting Graphs-adjececyList file 
+Matirx dig and other things - 211
