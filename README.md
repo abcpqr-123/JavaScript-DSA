@@ -4,3 +4,7 @@ Only approach and logic is there.
 
 
 (cat disturb === 142 vid, time 4:15
+
+
+Need to wite more notes in the Sorting Graphs-adjececy Matrix file 
+Matirx dig and other things 
