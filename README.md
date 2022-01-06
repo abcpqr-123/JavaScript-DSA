@@ -11,3 +11,6 @@ Matirx dig and other things  - 210
 
 Need to wite more notes in the Sorting Graphs-adjececyList file 
 Matirx dig and other things - 211
+
+
+Dept first traversal - 223 vid need to added to notes
