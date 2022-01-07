@@ -18,3 +18,5 @@ Dept first traversal - 223 vid need to added to notes
 BFS-Intro - add more notes 229
 
 Sorting_Heaps add notes - 184 
+
+Heap_Insert-Intro notes with dig -185
