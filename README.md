@@ -20,3 +20,6 @@ BFS-Intro - add more notes 229
 Sorting_Heaps add notes - 184 
 
 Heap_Insert-Intro notes with dig -185
+
+
+Heap_ExtractMax Intro - add dogs amd notes related to that - 187
